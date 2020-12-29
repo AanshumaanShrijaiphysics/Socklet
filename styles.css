@@ -1,0 +1,37 @@
+.intro{
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 55px;
+}
+.sub-intro{
+    text-align: right;
+    margin-right: 100px;
+}
+
+#background{
+    background-image: linear-gradient(to right, red , blue);
+}
+
+.nav-items{
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    
+}
+
+#nav-bar{
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+}
+
+.home:hover{
+    background-color: green;
+}
+.nav-items:visited{
+    background-color: green;
+}
+#notice{
+    font-size: 33.5px;
+    font-family: 'Hanalei Fill', cursive;
+}
